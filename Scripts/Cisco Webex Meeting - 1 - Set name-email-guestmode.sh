@@ -3,7 +3,7 @@
 #
 # File Name: Cisco Webex Meeting - set name, email and guest mode.sh
 #
-# Description: set name, email and guest mode for current user's account when using webex.
+# Description: set name, email in guest mode for current user's account when using webex meeting.
 # Written by: Matin Sasaluxanon
 # Created on: Matin Sasaluxanon
 last_updated="2021-07-28"
